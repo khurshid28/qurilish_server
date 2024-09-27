@@ -1,0 +1,13 @@
+/api/v1/super/all ___ GET ___ 1726059004834 ___ InternalServerError ___ Invalid database name: 'qurilishdb/'
+/api/v1/product/create ___ POST ___ 1726128448744 ___ InternalServerError ___ priceMonth is not defined
+/api/v1/item/all ___ GET ___ 1726134478122 ___ InternalServerError ___ $lookup argument 'localField' must be a string, found localField: { $toObjectId: "$product_id" }: object
+/api/v1/item/all ___ GET ___ 1726134583436 ___ InternalServerError ___ ObjectId is not defined
+/api/v1/super/create ___ POST ___ 1726134851032 ___ InternalServerError ___ super validation failed: phone: Should be as +998901234567
+/api/v1/super/create ___ POST ___ 1726134915546 ___ InternalServerError ___ super validation failed: phone: Should be as +998901234567
+/api/v1/super/create ___ POST ___ 1726134982529 ___ InternalServerError ___ super validation failed: phone: Should be as +998901234567
+/api/v1/super/create ___ POST ___ 1726134987771 ___ InternalServerError ___ super validation failed: phone: Should be as +998901234567
+/api/v1/super/create ___ POST ___ 1726135094923 ___ ReferenceError ___ consolelog is not defined
+/api/v1/super/create ___ POST ___ 1726135112394 ___ InternalServerError ___ super validation failed: phone: Should be as +998901234567
+/api/v1/super/create ___ POST ___ 1726135127086 ___ undefined ___ undefined
+/api/v1/super/create ___ POST ___ 1726135169451 ___ undefined ___ undefined
+/api/v1/super/create ___ POST ___ 1726135171241 ___ undefined ___ undefined
